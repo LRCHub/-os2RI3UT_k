@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "明け方の夏",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-02-07T12:51:21.041085Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明け方の夏",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/01_明け方の夏_あたらよ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あたらよ - 明け方の夏 (Music Video)",
+      "artist": "ATARAYO",
+      "has_synced": true,
+      "path": "select/02_あたらよ_-_明け方の夏_(Music_Video)_ATARAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明け方の夏",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_明け方の夏_あたらよ.txt"
+    }
+  ]
+}
